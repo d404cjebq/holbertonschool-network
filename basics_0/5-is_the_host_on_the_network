@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 
 if [ "$#" -eq 0 ]; then
@@ -7,4 +6,3 @@ if [ "$#" -eq 0 ]; then
 fi
 
 ping -c 5 "$1"
-
